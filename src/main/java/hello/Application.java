@@ -13,6 +13,6 @@ public class Application {
 
     @Get
     String index() {
-        return "hello, foo";
+        return "hello, world!";
     }
 }
